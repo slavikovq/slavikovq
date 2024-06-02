@@ -1,8 +1,9 @@
-- 🔭 I’m currently working on **WAP project**
+<h1>:)</h1>
 
-- 🌱 I’m currently learning **React**
+🔭 I’m currently working on **WAP project**
 
-<h3 align="left">Connect with me:</h3>
+🌱 I’m currently learning **React**
+
 <p align="left">
 </p>
 
