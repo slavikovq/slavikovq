@@ -1,6 +1,6 @@
 <h1>:)</h1>
 
-🔭 I’m currently working on **WAP project**
+🔭 I’m currently working on **PSP**
 
 🌱 I’m currently learning **React**
 
