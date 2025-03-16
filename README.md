@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on **PSP**
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **C#**
 
 <p align="left">
 </p>
